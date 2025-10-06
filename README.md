@@ -6,7 +6,7 @@ This repository contains my solution for the Cornell's CS3780 Machine Learning K
 
 Competition Link : https://www.kaggle.com/competitions/expanded-rock-paper-scissors/leaderboard
 
-Team Name : (fm454, km942, joblink.one)
+Team Name : (fm454(Farhan Mashrur) , km942(Kiyam Merali), joblink.one)
 
 After initially training with Kaggle's TPU, I used an A100 GPU via Google Colab Pro, which was essential due to the extensive data augmentation and model complexity required to achieve competitive results.
 
